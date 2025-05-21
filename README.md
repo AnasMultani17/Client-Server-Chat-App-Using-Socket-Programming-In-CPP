@@ -51,8 +51,5 @@ g++ client.cpp -o client -pthread
 - Custom protocol for broadcasting messages
 - Use of `mutex` and `signal` for safe thread and process control
 
-## 📸 Preview
-![terminal-chat-preview](https://your-screenshot-link-if-any.com) *(Optional)*
-
 ## 📜 License
 This project is for educational purposes only. Contributions and forks are welcome!
